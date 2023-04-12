@@ -8,3 +8,8 @@
 	url = https://github.com/szymonnowakowski/dmrnet
 	shallow = true
 	registered = true
+[submodule "hclust1d"]
+	path = hclust1d
+	url = https://github.com/szymonnowakowski/hclust1d
+	shallow = true
+	registered = true
