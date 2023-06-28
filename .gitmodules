@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "DMRnet"]
 	path = DMRnet
 	url = https://github.com/szymonnowakowski/dmrnet
-	shallow = true
-	registered = true
 [submodule "hclust1d"]
 	path = hclust1d
 	url = https://github.com/szymonnowakowski/hclust1d
-	shallow = true
-	registered = true
